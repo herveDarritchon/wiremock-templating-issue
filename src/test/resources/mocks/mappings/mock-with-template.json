@@ -13,7 +13,7 @@
     ],
     "jsonBody": {
       "message" : "Hello world!",
-      "departement": "{{request.query.department}}"
+      "department": "{{request.query.department}}"
     }
   }
 }
