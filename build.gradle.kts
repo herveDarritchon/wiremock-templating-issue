@@ -7,7 +7,7 @@ plugins {
     idea
 }
 
-val wiremockStandaloneVersion = "2.24.1"
+val wiremockStandaloneVersion = "2.23.2"
 
 dependencies {
     testImplementation("com.github.tomakehurst:wiremock-standalone:$wiremockStandaloneVersion")
